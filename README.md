@@ -11,10 +11,10 @@ Application status tracking (pending, accepted, rejected)
 RESTful API architecture
 
 Tech Stack:
-Backend: Laravel
-Frontend: React
-Database: PostgreSQL
-Authentication: JWT
+Backend: Laravel,
+Frontend: React,
+Database: PostgreSQL,
+Authentication: JWT,
 Containerization: Docker
 
 Purpose:
